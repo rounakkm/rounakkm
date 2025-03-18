@@ -8,7 +8,8 @@
 
 ---
 
-##  <span style="color:#FF33CC;">About Me</span>  
+##  <span style="color:#FF33CC;">About Me</span> 
+   <centre><big><b><strong>CSE FRESHER</big></b></strong></centre>  <br>
 🟢 <big><b><span style="color:#00FFFF;">Interested in low-level programming & system design</span>  
 🔵 <span style="color:#00FF00;">Proficient in C, C++ ... also Assembly lol</span>  
 🟡 <span style="color:#00FF00;">Work with AI & automation</span>  

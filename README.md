@@ -18,34 +18,30 @@
 ---
 
 ##  <span style="color:#FF33CC;">Tech Stack</span>  
-<p align="center">
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60px" style="animation: bounce 2s infinite;">
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px" style="animation: bounce 2.2s infinite;">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" style="animation: bounce 2.4s infinite;">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" style="animation: bounce 2.6s infinite;">
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" style="animation: bounce 2.8s infinite;">
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" style="animation: bounce 3s infinite;">
-  </a>
-</p>
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
+**Technologies:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+
+----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rounakkm&theme=github-dark)
+
+
+----
 ## Featured Repositories
 
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CarbonTrack ~ AI-Powered Optimization for Greener Living. 
 [![Carbon Track](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbontrack) (work in progress)
 
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> MedHistory  
-[![Medicine Scanner](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (work in progress)
+[![MedHistory](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (work in progress)
+
+### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CRTwave ~  Based on classic DOS interfaces
+[![CRTwave](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (almost done)
+
+----
+
 
 
 

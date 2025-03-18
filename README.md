@@ -42,7 +42,7 @@
 ## Featured Repositories
 
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CarbonTrack ~ AI-Powered Optimization for Greener Living. 
-[![Carbon Track](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbon-track) (work in progress)
+[![Carbon Track](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbontrack) (work in progress)
 
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> MedHistory  
 [![Medicine Scanner](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (work in progress)

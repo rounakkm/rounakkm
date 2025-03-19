@@ -32,14 +32,14 @@
 ----
 ## Featured Repositories
 
+### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CRTwave ~  Based on classic DOS interfaces
+[![CRTwave](https://your-image-hosting-link.com/crt-wave.png)](https://github.com/rounakkm/CRTwave) 
+
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CarbonTrack ~ AI-Powered Optimization for Greener Living. 
 [![Carbon Track](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbontrack) (work in progress)
 
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> MedHistory  
 [![MedHistory](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (work in progress)
-
-### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CRTwave ~  Based on classic DOS interfaces
-[![CRTwave](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (almost done)
 
 ----
 

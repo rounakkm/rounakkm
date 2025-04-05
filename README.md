@@ -11,7 +11,7 @@
 ##  <span style="color:#FF33CC;">About Me</span> 
    <centre><big><b><strong>CSE FRESHER</big></b></strong></centre>  <br>
 🟢 <big><b><span style="color:#00FFFF;">Interested in low-level programming & system design</span>  
-🔵 <span style="color:#00FF00;">Proficient in C, C++ ... also Assembly lol</span>  
+🔵 <span style="color:#00FF00;">Proficient in C, C++, Python </span>  
 🟡 <span style="color:#00FF00;">Work with AI & automation</span>  
 🟣 <span style="color:#FFFF00;">Passionate about tech & creative problem-solving.</span>  
 🔴 <span style="color:#FF4500;">Jack of all trades! - frontend, backend (Master of none)</span></b></big>
@@ -20,7 +20,7 @@
 
 ##  <span style="color:#FF33CC;">Tech Stack</span>  
 **Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 **Technologies:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  

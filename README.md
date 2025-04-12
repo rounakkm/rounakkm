@@ -25,11 +25,11 @@
 **Technologies:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)  ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-0078D4?style=for-the-badge&logo=onnx&logoColor=white)  ![Typer](https://img.shields.io/badge/Typer-2E8B57?style=for-the-badge&logo=python&logoColor=white)  
 
-----
+---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rounakkm&theme=github-dark)
 
 
-----
+---
 ## Featured Repositories
 
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> LIMOS ~ Low Impact Model Optimization System 
@@ -41,15 +41,14 @@
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CarbonTrack ~ AI-Powered Optimization for Greener Living. 
 [![CarbonTrack](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbontrack) (work in progress)
 
-----
+---
 <h2 >Stats</h2>
-<div >
+<div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=rounakkm&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rounakkm&theme=transparent" height="180em" alt="Stats"/> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rounakkm&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
-
-
-
-
+  
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rounakkm&theme=transparent" height="180em" alt="Stats"/> 
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rounakkm&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+</div>
 

@@ -42,7 +42,12 @@
 [![CarbonTrack](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbontrack) (work in progress)
 
 ----
-
+<h2 >Stats</h2>
+<div >
+  <img src="https://github-profile-trophy.vercel.app/?username=rounakkm&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rounakkm&theme=transparent" height="180em" alt="Stats"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rounakkm&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+</div>
 
 
 

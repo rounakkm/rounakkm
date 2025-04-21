@@ -14,7 +14,7 @@
 🔵 <span style="color:#00FF00;">Proficient in C, C++, Python </span>  
 🟡 <span style="color:#00FF00;">Work with AI & automation</span>  
 🟣 <span style="color:#FFFF00;">Passionate about tech & creative problem-solving.</span>  
-🔴 <span style="color:#FF4500;">Jack of all trades! - frontend, backend (Master of none)</span></big>
+
 
 ---
 
